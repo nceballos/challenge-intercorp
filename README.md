@@ -1,2 +1,2 @@
 # challenge-intercorp
-Challenge repository for Intercorp
+Proyecto desarrollado por Nicolas Ceballos para ser presentado en Intercorp, como parte del proceso de recruiting.
